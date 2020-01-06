@@ -1,0 +1,28 @@
+c:\users\aluno\documents\visual studio 2010\Projects\roleta\roleta\bin\Debug\roleta.exe
+c:\users\aluno\documents\visual studio 2010\Projects\roleta\roleta\bin\Debug\roleta.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\roleta\roleta\bin\Debug\roleta.xml
+c:\users\aluno\documents\visual studio 2010\Projects\roleta\roleta\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2010\Projects\roleta\roleta\obj\x86\Debug\roleta.Form1.resources
+c:\users\aluno\documents\visual studio 2010\Projects\roleta\roleta\obj\x86\Debug\roleta.Resources.resources
+c:\users\aluno\documents\visual studio 2010\Projects\roleta\roleta\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\roleta\roleta\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\roleta\roleta\obj\x86\Debug\roleta.exe
+c:\users\aluno\documents\visual studio 2010\Projects\roleta\roleta\obj\x86\Debug\roleta.xml
+c:\users\aluno\documents\visual studio 2010\Projects\roleta\roleta\obj\x86\Debug\roleta.pdb
+E:\Projects\roleta\roleta\obj\x86\Debug\roleta.exe
+E:\Projects\roleta\roleta\obj\x86\Debug\roleta.xml
+E:\Projects\roleta\roleta\obj\x86\Debug\roleta.pdb
+G:\Projects\roleta\roleta\obj\x86\Debug\roleta.exe
+G:\Projects\roleta\roleta\obj\x86\Debug\roleta.xml
+G:\Projects\roleta\roleta\obj\x86\Debug\roleta.pdb
+C:\Users\Yuri\Desktop\Pen Drive\Projects\roleta\roleta\obj\x86\Debug\roleta.exe
+C:\Users\Yuri\Desktop\Pen Drive\Projects\roleta\roleta\obj\x86\Debug\roleta.xml
+C:\Users\Yuri\Desktop\Pen Drive\Projects\roleta\roleta\obj\x86\Debug\roleta.pdb
+C:\Users\Yuri\Desktop\Pen Drive\Projects\roleta\roleta\bin\Debug\roleta.exe
+C:\Users\Yuri\Desktop\Pen Drive\Projects\roleta\roleta\bin\Debug\roleta.pdb
+C:\Users\Yuri\Desktop\Pen Drive\Projects\roleta\roleta\bin\Debug\roleta.xml
+C:\Users\Yuri\Desktop\Pen Drive\Projects\roleta\roleta\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yuri\Desktop\Pen Drive\Projects\roleta\roleta\obj\x86\Debug\roleta.Form1.resources
+C:\Users\Yuri\Desktop\Pen Drive\Projects\roleta\roleta\obj\x86\Debug\roleta.Resources.resources
+C:\Users\Yuri\Desktop\Pen Drive\Projects\roleta\roleta\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yuri\Desktop\Pen Drive\Projects\roleta\roleta\obj\x86\Debug\GenerateResource.write.1.tlog

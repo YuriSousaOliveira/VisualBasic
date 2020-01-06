@@ -1,0 +1,4 @@
+E:\Projects\Projects\login e calculos\login e calculos\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\Projects\login e calculos\login e calculos\obj\x86\Debug\login_e_calculos.Resources.resources
+E:\Projects\Projects\login e calculos\login e calculos\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\Projects\login e calculos\login e calculos\obj\x86\Debug\GenerateResource.write.1.tlog

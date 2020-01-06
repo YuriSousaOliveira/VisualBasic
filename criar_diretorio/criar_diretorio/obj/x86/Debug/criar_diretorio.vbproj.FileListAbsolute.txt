@@ -1,0 +1,11 @@
+E:\criar_diretorio\criar_diretorio\bin\Debug\criar_diretorio.exe
+E:\criar_diretorio\criar_diretorio\bin\Debug\criar_diretorio.pdb
+E:\criar_diretorio\criar_diretorio\bin\Debug\criar_diretorio.xml
+E:\criar_diretorio\criar_diretorio\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\criar_diretorio\criar_diretorio\obj\x86\Debug\criar_diretorio.Form1.resources
+E:\criar_diretorio\criar_diretorio\obj\x86\Debug\criar_diretorio.Resources.resources
+E:\criar_diretorio\criar_diretorio\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\criar_diretorio\criar_diretorio\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\criar_diretorio\criar_diretorio\obj\x86\Debug\criar_diretorio.exe
+E:\criar_diretorio\criar_diretorio\obj\x86\Debug\criar_diretorio.xml
+E:\criar_diretorio\criar_diretorio\obj\x86\Debug\criar_diretorio.pdb

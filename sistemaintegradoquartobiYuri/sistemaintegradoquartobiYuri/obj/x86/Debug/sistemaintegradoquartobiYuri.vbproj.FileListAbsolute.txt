@@ -1,0 +1,15 @@
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\obj\x86\Debug\sistemaintegradoquartobiYuri.Form1.resources
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\obj\x86\Debug\sistemaintegradoquartobiYuri.Form2.resources
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\obj\x86\Debug\sistemaintegradoquartobiYuri.Form3.resources
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\obj\x86\Debug\sistemaintegradoquartobiYuri.Form4.resources
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\obj\x86\Debug\sistemaintegradoquartobiYuri.Form5.resources
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\obj\x86\Debug\sistemaintegradoquartobiYuri.Resources.resources
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\bin\Debug\sistemaintegradoquartobiYuri.exe
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\bin\Debug\sistemaintegradoquartobiYuri.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\bin\Debug\sistemaintegradoquartobiYuri.xml
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\obj\x86\Debug\sistemaintegradoquartobiYuri.exe
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\obj\x86\Debug\sistemaintegradoquartobiYuri.xml
+c:\users\aluno\documents\visual studio 2010\Projects\sistemaintegradoquartobiYuri\sistemaintegradoquartobiYuri\obj\x86\Debug\sistemaintegradoquartobiYuri.pdb

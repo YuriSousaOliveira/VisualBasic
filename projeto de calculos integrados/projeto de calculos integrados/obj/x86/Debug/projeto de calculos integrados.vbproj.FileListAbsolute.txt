@@ -1,0 +1,40 @@
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\bin\Debug\projeto de calculos integrados.exe
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\bin\Debug\projeto de calculos integrados.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\bin\Debug\projeto de calculos integrados.xml
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto_de_calculos_integrados.Form1.resources
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto_de_calculos_integrados.Media.resources
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto_de_calculos_integrados.Multiplicacao.resources
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto_de_calculos_integrados.Resources.resources
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto_de_calculos_integrados.Somar.resources
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto_de_calculos_integrados.Subtracao.resources
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto de calculos integrados.exe
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto de calculos integrados.xml
+c:\users\aluno\documents\visual studio 2010\Projects\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto de calculos integrados.pdb
+E:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto de calculos integrados.exe
+E:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto de calculos integrados.xml
+E:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto de calculos integrados.pdb
+E:\projeto de calculos integrados\projeto de calculos integrados\bin\Debug\projeto de calculos integrados.exe.manifest
+E:\projeto de calculos integrados\projeto de calculos integrados\bin\Debug\projeto de calculos integrados.application
+E:\projeto de calculos integrados\projeto de calculos integrados\bin\Debug\projeto de calculos integrados.exe
+E:\projeto de calculos integrados\projeto de calculos integrados\bin\Debug\projeto de calculos integrados.pdb
+E:\projeto de calculos integrados\projeto de calculos integrados\bin\Debug\projeto de calculos integrados.xml
+E:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto_de_calculos_integrados.Form1.resources
+E:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto_de_calculos_integrados.Media.resources
+E:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto_de_calculos_integrados.Multiplicacao.resources
+E:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto_de_calculos_integrados.Resources.resources
+E:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto_de_calculos_integrados.Somar.resources
+E:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto_de_calculos_integrados.Subtracao.resources
+E:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto de calculos integrados.exe.manifest
+E:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto de calculos integrados.application
+G:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto de calculos integrados.exe
+G:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto de calculos integrados.xml
+G:\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto de calculos integrados.pdb
+C:\Users\Yuri\Desktop\Pen Drive\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto de calculos integrados.exe
+C:\Users\Yuri\Desktop\Pen Drive\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto de calculos integrados.xml
+C:\Users\Yuri\Desktop\Pen Drive\projeto de calculos integrados\projeto de calculos integrados\obj\x86\Debug\projeto de calculos integrados.pdb

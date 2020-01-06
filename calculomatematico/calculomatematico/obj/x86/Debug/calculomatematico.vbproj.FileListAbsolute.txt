@@ -1,0 +1,14 @@
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\bin\Debug\calculomatematico.exe
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\bin\Debug\calculomatematico.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\bin\Debug\calculomatematico.xml
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.Form1.resources
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.Resources.resources
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.exe
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.xml
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.pdb
+G:\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.exe
+G:\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.xml
+G:\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.pdb

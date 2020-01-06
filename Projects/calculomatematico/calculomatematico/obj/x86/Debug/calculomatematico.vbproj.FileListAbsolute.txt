@@ -1,0 +1,29 @@
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\bin\Debug\calculomatematico.exe
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\bin\Debug\calculomatematico.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\bin\Debug\calculomatematico.xml
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.Form1.resources
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.Resources.resources
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.exe
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.xml
+c:\users\aluno\documents\visual studio 2010\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.pdb
+E:\Projects\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.exe
+E:\Projects\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.xml
+E:\Projects\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.pdb
+E:\Projects\Projects\calculomatematico\calculomatematico\bin\Debug\calculomatematico.exe.manifest
+E:\Projects\Projects\calculomatematico\calculomatematico\bin\Debug\calculomatematico.application
+E:\Projects\Projects\calculomatematico\calculomatematico\bin\Debug\calculomatematico.exe
+E:\Projects\Projects\calculomatematico\calculomatematico\bin\Debug\calculomatematico.pdb
+E:\Projects\Projects\calculomatematico\calculomatematico\bin\Debug\calculomatematico.xml
+E:\Projects\Projects\calculomatematico\calculomatematico\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.Form1.resources
+E:\Projects\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.Resources.resources
+E:\Projects\Projects\calculomatematico\calculomatematico\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\Projects\calculomatematico\calculomatematico\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.exe.manifest
+E:\Projects\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.application
+G:\Projects\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.exe
+G:\Projects\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.xml
+G:\Projects\Projects\calculomatematico\calculomatematico\obj\x86\Debug\calculomatematico.pdb

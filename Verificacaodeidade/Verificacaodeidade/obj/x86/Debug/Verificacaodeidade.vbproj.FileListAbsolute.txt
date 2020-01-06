@@ -1,0 +1,11 @@
+c:\users\aluno\documents\visual studio 2010\Projects\Verificacaodeidade\Verificacaodeidade\bin\Debug\Verificacaodeidade.exe
+c:\users\aluno\documents\visual studio 2010\Projects\Verificacaodeidade\Verificacaodeidade\bin\Debug\Verificacaodeidade.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\Verificacaodeidade\Verificacaodeidade\bin\Debug\Verificacaodeidade.xml
+c:\users\aluno\documents\visual studio 2010\Projects\Verificacaodeidade\Verificacaodeidade\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2010\Projects\Verificacaodeidade\Verificacaodeidade\obj\x86\Debug\Verificacaodeidade.Form1.resources
+c:\users\aluno\documents\visual studio 2010\Projects\Verificacaodeidade\Verificacaodeidade\obj\x86\Debug\Verificacaodeidade.Resources.resources
+c:\users\aluno\documents\visual studio 2010\Projects\Verificacaodeidade\Verificacaodeidade\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\Verificacaodeidade\Verificacaodeidade\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\Verificacaodeidade\Verificacaodeidade\obj\x86\Debug\Verificacaodeidade.exe
+c:\users\aluno\documents\visual studio 2010\Projects\Verificacaodeidade\Verificacaodeidade\obj\x86\Debug\Verificacaodeidade.xml
+c:\users\aluno\documents\visual studio 2010\Projects\Verificacaodeidade\Verificacaodeidade\obj\x86\Debug\Verificacaodeidade.pdb

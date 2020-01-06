@@ -1,0 +1,14 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculodevelocidademedia\bin\Debug\Calculodevelocidademedia.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculodevelocidademedia\bin\Debug\Calculodevelocidademedia.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculodevelocidademedia\bin\Debug\Calculodevelocidademedia.xml
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculodevelocidademedia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculodevelocidademedia\obj\x86\Debug\Calculodevelocidademedia.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculodevelocidademedia\obj\x86\Debug\Calculodevelocidademedia.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculodevelocidademedia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculodevelocidademedia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculodevelocidademedia\obj\x86\Debug\Calculodevelocidademedia.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculodevelocidademedia\obj\x86\Debug\Calculodevelocidademedia.xml
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculodevelocidademedia\obj\x86\Debug\Calculodevelocidademedia.pdb
+E:\Aulas\Calculodevelocidademedia\Calculodevelocidademedia\obj\x86\Debug\Calculodevelocidademedia.exe
+E:\Aulas\Calculodevelocidademedia\Calculodevelocidademedia\obj\x86\Debug\Calculodevelocidademedia.xml
+E:\Aulas\Calculodevelocidademedia\Calculodevelocidademedia\obj\x86\Debug\Calculodevelocidademedia.pdb

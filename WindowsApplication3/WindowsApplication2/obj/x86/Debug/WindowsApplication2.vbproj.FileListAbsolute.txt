@@ -1,0 +1,40 @@
+c:\users\aluno\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\aluno\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\aluno\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.F.resources
+c:\users\aluno\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+c:\users\aluno\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+c:\users\aluno\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+c:\users\aluno\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+G:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+G:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+G:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+G:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+G:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+G:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+G:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.F.resources
+G:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+G:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+H:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+H:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.F.resources
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.manifest
+E:\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.application
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe.manifest
+E:\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.application
